@@ -1,0 +1,39 @@
+html {
+  background-color: rgb(49, 49, 49);
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin: 3rem 1.5rem;
+}
+.container {
+  width: 100%;
+  text-align: center;
+  margin: 3rem auto auto auto;
+}
+label {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+.birthDate,
+.luckyNumber {
+  width: 200px;
+  display: inline-block;
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.submit {
+  font-size: 1.5rem;
+  border-radius: 20px;
+  margin-top: 3rem;
+  padding: 5px 180px;
+}
+
+.output {
+  margin-top: 3rem;
+  font-size: 1.5rem;
+}
